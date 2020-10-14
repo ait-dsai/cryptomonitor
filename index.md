@@ -22,7 +22,7 @@ navigation_weight: 1
                 KRYPTOMONITOR
               </h1>
               <h3>
-                Verfahren zur forensischen Analyse von Smart Contracts und Off-Chain Transaktionen.
+                Forensic Analytics Methods for Smart Contracts and Off-Chain Transactions.
               </h3>
             </p>
           </div>
@@ -34,14 +34,14 @@ navigation_weight: 1
   <div class = "row">
     <div class = "col s12 m12 l12">
       <div class = "card-panel">
-        <h2>Beschreibung</h2>
-        Das Ziel des KRYPTOMONITOR Projekts liegt deshalb in der Entwicklung generischer <b>Kryptoasset-Analysemethoden</b>, die neben nativen Kryptowährungs-Transaktionen auch die Analyse von <b>Smart Contracts</b> und <b>Off-Chain</b> Transaktionen unterstützen. 
+        <h2>Description</h2>
+        The goal of the KRYPTOMONITOR project is to develop methods for cryptoassets analysis focusing on <b>Smart Contracts</b> and <b>Off-Chain</b> transactions. 
         <br>
         <br>
-        Die resultierenden Werkzeuge sollen eine effektivere Strafverfolgung durch neue forensische Analyseverfahren ermöglichen und eine faktenbasierte Entscheidungsgrundlage zur Bewertung möglicher <b>Risiken</b> und zur Durchsetzung regulatorischer Maßnahmen bieten. 
+        The resulting tools will make the the forensic analysis for the Law Enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
         <br>
         <br>
-        Orthogonal dazu sollen rechtliche und regulatorische Fragestellungen in Bezug auf <b>Tokens</b> beantwortet, Standards für einen effektiven Datenaustausch spezifiziert und Qualifizierungsstandards durch Schulungsmaßnahmen gesetzt werden. 
+        Orthogonal to this, legal and regulatory questions about <b>Tokens</b> will be answered, standards for an effective exchange of data will be defined and qualification trainings will be held. 
       </div>
     </div>
   </div>
