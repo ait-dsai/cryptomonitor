@@ -1,6 +1,7 @@
 ---
 layout: index
 navigation_weight: 1
+permalink: /
 ---
 
 <div class="home">
