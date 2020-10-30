@@ -4,6 +4,8 @@ navigation_weight: 1
 ---
 
 <div class="home">
+  <br>
+  <br>
   <div class = "row">
     <div class = "col s12 m12 l12">
       <div class = "card-panel">
@@ -11,7 +13,7 @@ navigation_weight: 1
           <div class = "col s12 m3 l3 center">
             <div>
               <a href='/about'>
-                <img src="/img/stella_logo_black_yellow_net.png" alt="" class="circle responsive-img hoverable">
+                <img src="/img/KRYPTOMONITOR_LOGO_RGB.svg" alt="" class="circle responsive-img hoverable">
               </a>
             </div>
             <div style = 'padding: 5px 0px'></div>
@@ -22,7 +24,7 @@ navigation_weight: 1
                 KRYPTOMONITOR
               </h1>
               <h3>
-                Forensic Analytics Methods for Smart Contracts and Off-Chain Transactions.
+                Forensic Methods for Smart Contracts and Off-Chain Transactions.
               </h3>
             </p>
           </div>
@@ -35,13 +37,13 @@ navigation_weight: 1
     <div class = "col s12 m12 l12">
       <div class = "card-panel">
         <h2>Description</h2>
-        The goal of the KRYPTOMONITOR project is to develop methods for cryptoassets analysis focusing on <b>Smart Contracts</b> and <b>Off-Chain</b> transactions. 
+        The goal of the KRYPTOMONITOR project is to develop methods for cryptoassets analysis focusing on <b>smart contracts</b> and <b>off-chain</b> transactions. 
         <br>
         <br>
-        The resulting tools will make the the forensic analysis for the Law Enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
+        The resulting tools will make the the forensic analysis for the law enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
         <br>
         <br>
-        Orthogonal to this, legal and regulatory questions about <b>Tokens</b> will be answered, standards for an effective exchange of data will be defined and qualification trainings will be held. 
+        Orthogonal to this, legal and regulatory questions about <b>tokens</b> will be answered, standards for an effective exchange of data will be defined and qualification trainings will be held. 
       </div>
     </div>
   </div>
