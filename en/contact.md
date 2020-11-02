@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+lang: en
+lang-ref: contact
+permalink: /en/contact/
 navigation_weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+lang: en
+lang-ref: about
+permalink: /en/about/
 navigation_weight: 2
 
 ---

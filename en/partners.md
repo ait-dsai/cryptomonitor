@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Partners
-permalink: /partners/
+lang: en
+lang-ref: partners
+permalink: /en/partners/
 navigation_weight: 3
 ---
 
