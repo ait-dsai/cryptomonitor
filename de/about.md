@@ -3,7 +3,7 @@ layout: page
 title: About
 lang: de
 lang-ref: about
-permalink: de/about/
+permalink: /de/about/
 navigation_weight: 2
 
 ---

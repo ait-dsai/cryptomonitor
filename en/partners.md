@@ -9,14 +9,14 @@ navigation_weight: 3
 
 <div class="row">
 	<div class="col s12 m8 l6">
-		<div class = "card-panel"  style="height:350px">
+		<div class = "card-panel"  style="height:360px">
 			<img style="float: right;" src="{{ site.url }}/img/ait_logo_ohne_claim_c1_rgb.jpg" alt="AIT" width="180"/>
 			<h2><a href="http://www.ait.ac.at">Austrian Institute of Technology GmbH</a></h2>
 			The Austrian Institute of Technology (AIT) is the largest research company in Austria. The AIT Competence Center for Digital Safety and Security is a high-tech organization for applied research in the security sector.
 	    </div>
 	</div>
 	<div class="col s12 m8 l6">
-		<div class = "card-panel"  style="height:350px">
+		<div class = "card-panel"  style="height:360px">
 			<img style="float: right;" src="{{ site.url }}/img/universitaet-innsbruck-logo-rgb-farbe.png" alt="UIBK" width="150"/>
 			<h2><a href="http://informationsecurity.uibk.ac.at/">University of Innsbruck</a></h2>
 			The research focus of the Security and Privacy Lab at the Department of Computer Science of the University of Innsbruck is on digital forensics, virtual currencies as well as cybercrime. The lab is strongly connected to international institutions and has a leading role in Europe in studying phenomena of interest to KRYPTOMONITOR.

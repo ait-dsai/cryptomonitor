@@ -9,7 +9,17 @@
       {% endfor %}
       {% for lang in site.data.languages %}
         {% if lang.code != page.lang %}
-          <li><a class="page-link" href="{{ site.url }}/{{ lang.code }}">{{lang.label}}</a></li>
+          {% for p in site.html_pages %}
+            {% if p.navigation_weight == page.navigation_weight %}
+              {% if p.lang == lang.code %}
+                {% if p.permalink %}
+                  <li><a class="page-link" href="{{ site.url }}{{ p.permalink }}">{{lang.label}}</a></li>
+                {% else %}
+                  <li><a class="page-link" href="{{ site.url }}/{{ p.lang }}">{{lang.label}}</a></li>
+                {% endif %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}      
         {% endif %}
       {% endfor %}      
   </ul>
@@ -27,7 +37,17 @@
     <span class="right">
       {% for lang in site.data.languages %}
         {% if lang.code != page.lang %}
-          <li><a href="{{ site.url }}/{{ lang.code }}">{{lang.label}}</a></li>
+          {% for p in site.html_pages %}
+            {% if p.navigation_weight == page.navigation_weight %}
+              {% if p.lang == lang.code %}
+                {% if p.permalink %}
+                  <li><a href="{{ site.url }}{{ p.permalink }}">{{lang.label}}</a></li>
+                {% else %}
+                  <li><a href="{{ site.url }}/{{ p.lang }}">{{lang.label}}</a></li>
+                {% endif %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}      
         {% endif %}
       {% endfor %}      
     </span>
