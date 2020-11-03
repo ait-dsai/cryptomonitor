@@ -10,7 +10,7 @@ title: KRYPTOMONITOR
 description: > # this means to ignore newlines until "baseurl:"
   Project Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kryptomonitor-project.info" # the base hostname & protocol for your site
+url: "https://kryptomonitor-project.info" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
