@@ -1,7 +1,6 @@
 ---
 layout: index
 lang: en
-lang-ref: en/index
 navigation_weight: 1
 ---
 

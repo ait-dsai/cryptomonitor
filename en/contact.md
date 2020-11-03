@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 lang: en
-lang-ref: contact
 permalink: /en/contact/
 navigation_weight: 4
 ---

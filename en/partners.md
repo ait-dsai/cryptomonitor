@@ -2,7 +2,6 @@
 layout: page
 title: Partners
 lang: en
-lang-ref: partners
 permalink: /en/partners/
 navigation_weight: 3
 ---
