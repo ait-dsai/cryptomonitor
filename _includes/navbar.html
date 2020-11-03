@@ -9,6 +9,7 @@
       {% endfor %}
       {% for lang in site.data.languages %}
         {% if lang.code != page.lang %}
+          {% assign right = "empty" %}
           {% for p in site.html_pages %}
             {% if p.navigation_weight == page.navigation_weight %}
               {% if p.lang == lang.code %}
@@ -17,9 +18,13 @@
                 {% else %}
                   <li><a class="page-link" href="{{ site.url }}/{{ p.lang }}">{{lang.label}}</a></li>
                 {% endif %}
+                {% assign right = "full" %}
               {% endif %}
             {% endif %}
-          {% endfor %}      
+          {% endfor %} 
+          {% if right == "empty" %}  
+            <li><a href="{{ site.url }}/{{ lang.code }}">{{lang.label}}</a></li>
+          {% endif %}     
         {% endif %}
       {% endfor %}      
   </ul>
@@ -35,7 +40,6 @@
       {% endif %}
     {% endfor %}
     <span class="right">
-      <!-- {{ page.lang }} -->
       {% for lang in site.data.languages %}
         {% if lang.code != page.lang %}
           {% assign right = "empty" %}
