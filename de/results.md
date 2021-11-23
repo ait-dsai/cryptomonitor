@@ -3,7 +3,7 @@ layout: page
 title: Ergebnisse
 lang: de
 permalink: /de/ergebnisse/
-navigation_weight: 5
+navigation_weight: 4
 
 ---
 

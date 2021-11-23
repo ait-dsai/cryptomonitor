@@ -13,7 +13,7 @@ navigation_weight: 2
 		  <h2>
 		  	Context
 		  </h2>
-      Money flows in the always relevant cryptocurrency Bitcoin can nowadays be traced relatively well. However, the need for new forensic methods is already foreseeable due to the advancing technical development: virtual financial assets, so-called crypto-assets, and financial products like tokens and <b>smart contracts</b> as well as <b>off-chain</b> payment channels are increasingly used and will soon make current blockchain forensic tools obsolete. 
+      Money flows in the always relevant cryptocurrency Bitcoin can nowadays be traced relatively well. However, the need for new forensic methods is already foreseeable due to the advancing technical development: virtual financial assets, so-called crypto-assets, and financial products like tokens and <b>smart contracts</b> as well as <b>off-chain</b> payment channels are increasingly used. They will soon make current blockchain forensic tools obsolete. 
 	    </div>
 	</div>
 </div>
